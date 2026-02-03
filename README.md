@@ -1,4 +1,5 @@
 # POWER-BI-DATA-TRANSFORMATION-USING-POWERQUERY
+NOTE : FINALISED FILE HAVE BEEN DELETED SO INCASE I UPLOADED SOME SCREENSHOTS AND A FINALISED VISUAL DATA LOOK WITH GRAPHICAL CHART SCREENSHOT
 Step 1 – Remove unnecessary columns
 I started with a messy HR dataset and dropped irrelevant fields to keep only useful employee information. This reduced clutter and made the dataset easier to manage.
 Step 2 – Rename columns
