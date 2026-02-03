@@ -1,0 +1,16 @@
+Why is Power Query used?
+Power Query is used to clean and transform raw data before analysis—like removing columns, fixing nulls, renaming headers, and changing datatypes. It ensures your dataset is structured and reliable for visuals and DAX logic.
+
+Merge vs Append in Power BI?
+- Merge combines columns from two tables based on a key (like joining FirstName from one table with Department from another).
+- Append stacks rows from two tables with the same structure (like adding more employee records to the same dataset).
+
+Why does datatype matter in BI?
+Correct datatypes (e.g., Date, Text, Number) ensure visuals, filters, and calculations behave as expected. For example, converting DOB to Date enabled age calculations, and fixing PayZone as Text allowed proper grouping in the pie chart.
+
+Measures vs Columns?
+- Columns are stored in the data model and calculated row-by-row (e.g., AgeGroup, SalaryBand).
+- Measures are dynamic calculations based on filters and visuals (e.g., Average Satisfaction Score in the bar chart).
+
+Common data cleaning steps in BI?
+You applied key steps: removing unnecessary columns, renaming headers, handling nulls, fixing datatypes, and creating conditional fields like SalaryBand. These steps make the data usable for accurate, interactive reporting
